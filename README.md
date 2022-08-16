@@ -1,3 +1,8 @@
+-- #Infinite Yield
+-- Made by CorruptedBrion
+
+-- // Script
+
 -- Gui to Lua
 -- Version: 3.2
 
